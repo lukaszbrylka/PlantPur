@@ -1,0 +1,140 @@
+<resources>
+    <string name="app_name">PlantPur</string>
+    <string name="podtytul1">podtytul1</string>
+    <string name="plantpur_logo_content_description">PlanturLogo</string>
+    <string name="plantpur_login">Login</string>
+    <string name="plantpur_haslo">Hasło</string>
+    <string name="plantpur_dalej">DALEJ</string>
+    <string name="plantpur_cofnij">COFNIJ</string>
+    <string name="plantpur_bład">BŁĄD</string>
+    <string name="MENU">MENU</string>
+    <string name="mail">kontakt@plantpur.pl</string>
+    <string name="temat">Temat:</string>
+    <string name="wiadomosc">Wiadomość:</string>
+    <string name="wyslijmail">WYŚLIJ E-MAIL</string>
+/// MAIN
+    <string name="title1main"><b>Unikatowa rodzina materacy ekologicznych</b></string>
+    <string name="title2main"><b>Śpiąc spędzamy 1/3 życia, dlatego materac jest ważny!</b></string>
+    <string name="title3main"><b>Pianki z olejów roślinnych i kokosowych</b></string>
+    <string name="title4main"><b>Wyrób medyczny klasy I</b></string>
+    <string name="title6main"><b>Do 30 lat gwarancji i satysfakcji</b></string>
+    <string name="title7main"><b>Darmowa wysyłka i zwrot</b></string>
+    <string name="title8main"><b>Poznaj Polską wysoką jakość</b></string>
+    <string name="title9main"><b>Zapoznaj się z rodziną materacy z Polski, w tym z materacem rehabilitacyjnym i przetestuj za darmo przez 101 nocy!</b></string>
+    <string name="text1main">Materac rehabilitacyjny PlantPur to gwarancja zdrowego snu</string>
+    <string name="text2main">Jedyne ekologiczne materace na świecie</string>
+    <string name="text3main">Zadbaj o swoje zdrowie juz dziś</string>
+    <string name="text4main">Śpisz nie martwiąc się o resztę</string>
+    <string name="text5main">Kupuj i testuj bez ryzyka</string>
+    <string name="text6main">Nasze fabryki znajdują się na terenie Polski </string>
+
+/// COMPOSITE
+    <string name="title1composite"><b>Materac PlantPur™ Composite</b></string>
+    <string name="title2composite"><b>1.PlantPur Visco™</b></string>
+    <string name="title3composite"><b>2.PlantPur HR™</b></string>
+    <string name="title4composite"><b>3.Baza materaca™</b></string>
+    <string name="text1composite">Nasz materac z pianki termoelastycznej wykonany jest specjalnie pod indywidualne potrzeby i preferencje osobowe.</string>
+    <string name="text2composite">PlantPur™ Composite nie jest jednym z wielu standardowych materacy. Stawiamy na zaspokojenie potrzeb oraz wymagań. Nazwaliśmy go „PlantPur™ — osobisty typ komfortu</string>
+    <string name="text3composite">Kombinacja pianek lub rozmiary do konfiguracji (łączna grubość 6 cm):
+
+Termoelastyczna pianka Visco zawierająca do 50% olejów roślinnych o gęstości 50kg/m3 i grubości 3 cm.
+Wysoko elastyczna pianka High Resilent zawierająca do 50% olejów roślinnych o gęstości 35kg/m3. Grubość 3 cm.</string>
+    <string name="text4composite">Wysoko elastyczna pianka High Resilent zawierająca do 50% olejów roślinnych o gęstości 35kg/m3. Grubość 4 cm.</string>
+    <string name="text5composite">Wysokoelastyczna pianka + warstwa moletkowa
+Pianka wysokoelastyczna z dodatkiem oleju. Grubość 16cm</string>
+/// NATURAL
+    <string name="titlenatural"><b>Materace do spania PlantPur™ Natural</b></string>
+    <string name="title2natural"><b>Naturalny komfort</b></string>
+    <string name="title3natural"><b>1.PlantPur Visco™</b></string>
+    <string name="title4natural"><b>2.PlantPur HR + pianka moletkowa</b></string>
+    <string name="textnatural">Materace do spania PlantPurT™ Natural zostały stworzone dla osób, które preferują klasyczne materace piankowe ale cenią sobie ekologię, komfort oraz jakość. Nasza wizja opiera się na dostępności technologii PlantPur w każdym domu więc dostosowujemy się do potrzeb oraz możliwości każdej rodziny.</string>
+    <string name="text2natural">Materac do spania PlantPurT™ Natural został zbudowany z dwóch rodzajów pianek. Pierwsza warstwa to ekologiczna pianka PlantPurTM HR z dodatkiem oleju kokosowego. Jest to pianka, która charakteryzuje się wysoką elastycznością oraz odpornością na odkształcenia, wykonana w specjalnej technologii zwanej moletkowaniem, dzięki czemu na powierzchni pianki pojawiają się równomierne wgłębienia, które gwarantują prawidłowe ułożenie ciała podczas snu, oraz poprawiają krążenie krwi.
+</string>
+    <string name="text3natural">Termoelastyczna pianka Visco zawierająca do 50% olejów roślinnych o gęstości 50kg/m3 i grubości 3 cm.</string>
+    <string name="text4natural">Pianka poliuretanowa z dodatkiem oleju kokosowego. Grubość 20 cm.</string>
+/// LIFE
+    <string name="titlelife"><b>Dobry materac do spania - PlantPur™ Life</b></string>
+    <string name="title1life"><b>Budowa materaca z pianki wysokoelastycznej - Life</b></string>
+    <string name="title2life"><b>1.PlantPur HR™</b></string>
+    <string name="title3life"><b>2.PlantPur HD™</b></string>
+    <string name="textlife">Materac wysokoelastyczny PlantPur Life jest materacem całkowicie piankowym. W odróżnieniu od naszych innych produktów, PlantPur Life nie zawiera pianki termoelastycznej, dopasowującej się do ciała. Pianka termoelastyczna została zastąpiona pianką HR oraz HD. Dzięki połączeniu tych dwóch typów ekologicznych pianek dajemy możliwość stworzenia materaca pod indywidualną potrzebę oraz wygodę klienta. To właśnie Ty decydujesz o twardości materaca, dlatego masz pewność, że to dobry materac do spania właśnie dla Ciebie!</string>
+    <string name="text1life">Grubość ekologicznego materaca wysokoelastycznego PlantPur Life to 20 centymetrów (18 cm wkład i materiały to 2 cm).</string>
+    <string name="text2life">Pianka wysokoelastyczna zawierająca olej kokosowy. To rodzaj pianki poliuretanowej o zwiększonej sprężystości i wytrzymałości.
+</string>
+    <string name="text3life">Pianka poliuretanow z dodatkiem oleju kokosowego o zwiększonej gęstości 30kg/m3. Charakteryzuje się odpornością na odkształcenia oraz wieloletnią żywotnością.</string>
+/// BABY
+    <string name="titlebaby"><b>Materac do łóżeczka PlantPur Baby</b></string>
+    <string name="title1baby"><b>Zdrowy rozwój dziecka -
+Przemyślany każdy element</b></string>
+    <string name="title2baby"><b>Dziecko jest chodzącym cudem, jedynym, wyjątkowym i niezastąpionym.— Phil Bosmans</b></string>
+    <string name="title3baby"><b>Bezpieczeństwo</b></string>
+    <string name="title4baby"><b></b></string>
+    <string name="textbaby">Konfiguracja ekologicznych pianek PlantPurTM HR oraz PlantPurTM Visco sprawia, że dziecko podczas snu będzie rozwijać się prawidłowo, a jego kręgosłup ułoży się w dobrej pozycji. Zawarte w piance oleje roślinne obniżają do minimum ilość szkodliwych substancji, które mogą przedostawać się podczas snu do organizmu dziecka. Dlatego jeśli zastanawiasz się, jaki materac dla dziecka będzie najbardziej odpowiedni, PlantPurTM Baby jest najlepszą odpowiedzią.</string>
+    <string name="text1baby">Jaki materac dla dziecka będzie najbardziej bezpieczny? W naszych materacach stosujemy pokrowce, które zapewniają bezpieczeństwo oraz higienę. Wszystkie tkaniny, które zostały przez nas użyte posiadają certyfikaty, są antyalergiczne i nie podrażniają skóry dziecka. Ekologiczna dzianina celulozowa, z której uszyty jest pokrowiec na bazę materaca jest wykonana z odpadów drewna bukowego oraz dodatkowo nasączona wyciągiem z drzewek oliwnych.</string>
+    <string name="text2baby">Pokrowiec posiada także probiotyczną warstwę Fresh, stosowaną w przemyśle medycznym i w łóżkach rehabilitacyjnych. Nawierzchniowa tkanina PlantPur Aloes o wysokiej gramaturze jest nasączona wyciągiem z liści aloesu, skutecznie zapobiegając nadmiernemu rozwojowi roztoczy, bakterii oraz grzybów, które nie są pożądane w otoczeniu dzieci.</string>
+    <string name="text3baby">Materac do łóżeczka PlantPurTM Baby składa się z dwóch warstw. Pierwsza to baza, wykonana z pianki PlantPurTM HR, która zawiera do 50 % olei roślinnych, drugą natomiast jest praktyczny materac nawierzchniowy z pianki ekologicznej PlantPurTM Visco, który jest przymocowany do bazy zamkiem błyskawicznym. Wszystko po to, aby ułatwić pranie wierzchniej warstwy materaca, która brudzi się najszybciej i jest najbliżej ciała maluszka.</string>
+/// NAWIERZCHNIOWY
+    <string name="titlenaw"><b>Materac nawierzchniowy w materacach PlantPur</b></string>
+    <string name="title1naw"><b>Materac do spania? Najważniejsza jest higiena</b></string>
+    <string name="title2naw"><b>Wysoka higiena</b></string>
+    <string name="title3naw"><b>Możesz go wyprać w pralce</b></string>
+    <string name="title4naw"><b>Materac do spania na lata?</b></string>
+    <string name="title5naw"><b>Pianka na miarę Twoich potrzeb</b></string>
+    <string name="title6naw"><b>Indywidualny komfort</b></string>
+    <string name="text1naw">Każdy materac PlantPur posiada swój własny ściągalny materac nawierzchniowy. Jako jedyny producent materacy na świecie gwarantujemy dwa materace w jednym. Nie musisz już zastanawiać się, czy dokupić dodatkowy materac nawierzchniowy, gdyż otrzymujesz go w cenie. Dobre i najlepsze materace do spania charakteryzują się troską o higienę i wysoką łatwością użytkowania.</string>
+    <string name="text2naw">Według najnowszych badań, 40% domostw zmaga się z obecnością alergenów psa, kota, roztoczy kurzu domowego i karalucha. Dzięki ściągalnemu pokrowcowi nawierzchniowemu możesz bardzo łatwo wyprać zabrudzony pokrowiec i pozbyć się pasożytów, aby Twój materac do spania zawsze był w 100% higieniczny.</string>
+    <string name="text3naw">W przeciwieństwie do tradycyjnego materaca, ściągalny pokrowiec nawierzchniowy materacy PlantPur można w całości bezpiecznie wyprać w warunkach domowych, bez konieczności oddawania do drogiej pralni. To cecha, którą charakteryzują się najlepsze materace.</string>
+    <string name="text4naw">Przymocowany zamkiem błyskawicznym materac nawierzchniowy pełni funkcję warstwy komfortowej oraz ochronnej materaca PlantPur . To właśnie dzięki niemu baza materaca służy Ci na lata, wymieniasz tylko materac nawierzchniowy. Jest to o wiele tańsze rozwiązanie niż wymiana całego materaca.</string>
+    <string name="text5naw">Na różnych etapach naszego życia potrzebujemy innego materaca do spania, np. gdy zmienia się masa naszego ciała lub cierpimy na bóle kręgosłupa. Możesz wybrać piankę materaca nawierzchniowego według własnych preferencji, a następnie zmieniać ją, bez konieczności wymiany materaca bazowego. Tak, aby mieć pewność, że posiadasz najlepszy materac dla Ciebie.</string>
+    <string name="text6naw">W materacach serii PlantPur Composite możesz wybrać materiał pokrowca w ściągalnym materacu nawierzchniowym. Piankę w materacu nawierzchniowym możesz dowolnie obracać i testować między pianką PlantPur HR oraz PlantPur Visco. To od Ciebie zależy, który poziom komfortu najbardziej Tobie odpowiada.</string>
+/// BED
+    <string name="title1bed"><b>Łóżko PlantPur Bed</b></string>
+    <string name="title2bed"><b>Łóżko do sypialni - budowa</b></string>
+    <string name="title3bed"><b>1.Materiały</b></string>
+    <string name="title4bed"><b>2.Stelaż</b></string>
+    <string name="title5bed"><b>Łóżka tapicerowane dla przytulności Twojej sypialni</b></string>
+
+    <string name="text1bed">Łóżko do sypialni wykonane jest z najwyższej jakości płyty meblarskiej która została otulona ekologiczną pianką z dodatkiem olejów kokosowych. Całość stoi na eleganckich drewnianych nóżkach.</string>
+    <string name="text2bed">Płyta meblowa otulona ekologiczną pianką PlantPur z dodatkiem oleju kokosowego. Całość obita niezwykle przyjemną oraz wytrzymałą tkaniną strukturalną.</string>
+    <string name="text3bed">Wkład stelaża został wytworzony z 17 drewnianych listewek.</string>
+    <string name="text4bed">Wierzymy, że łóżka tapicerowane z pięknym, stylowym zagłówkiem dodają maksimum przytulności każdej sypialni. Dlatego właśnie ekologiczne łóżko PlantPur Bed to model tapicerowany elegancką, tkaniną strukturalną najwyższej jakości.
+Tkanina zastosowana w łóżku PlantPur Bed osiągnęła w testach Martindale rezultat ścieralności do 100 000 cykli. Gdzie przy standardowym użytkowaniu łóżka 2000 cykli to jeden rok użytkowania.</string>
+    <string name="text5bed">Tego typu ponadczasowe obicie łóżka na lata, wkomponuje się w Twoją aranżację wnętrza, niezależnie od tego, o jakim stylu marzysz.
+Ten model łóżka do sypialni z pewnością świetnie sprawdzi się w nowoczesnym pomieszczeniu, podkreślając jego unikatowy design, ale będzie też rewelacyjnie pasował do tradycyjnego wnętrza, dodając mu szykownego wyglądu.</string>
+
+/// SKLEP
+    <string name="titlesklep"><b></b></string>
+    <string name="textsklep"></string>
+/// O NAS
+    <string name="title1onas"><b>O nas</b></string>
+    <string name="title2onas"><b>Wizja i Misja PlantPur Composite™</b></string>
+    <string name="title4onas"><b></b></string>
+    <string name="title5onas"><b></b></string>
+    <string name="text1onas">Nasz roślinny materac termoelastyczny PlantPur™ Composite produkujemy w Polsce i jesteśmy z tego dumni. Ciężko pracujemy nad powstaniem każdego materaca od momentu projektowania, aż po zapakowanie i wysyłkę do klienta. Bierzemy pełną odpowiedzialność za użyte towary, ponieważ cały złożony proces produkcji i dystrybucji spoczywa w naszych rękach.</string>
+    <string name="text2onas">Długofalową wizją technologii PlantPur™ Composite jest dostępność w każdym ekologicznym domu, ceniącym sobie zdrowie i wygodę.
+</string>
+    <string name="text3onas">Nasza misja polega na wykluczaniu użycia substancji szkodzących środowisku naturalnemu oraz zdrowiu, by był to naprawdę dobry materac do spania pod każdym względem.</string>
+    <string name="text4onas">Opatentowane przez nas stoisko PlantPur™ pomaga w oferowaniu, wyborze i konsultingu z potencjalnym klientem.</string>
+
+/// BLOG
+    <string name="titleblog"><b></b></string>
+    <string name="textblog"></string>
+/// OPINIE
+    <string name="titleopinie"><b></b></string>
+    <string name="textopinie"></string>
+/// PYTANIA
+    <string name="titlepytania"><b></b></string>
+    <string name="textpytania"></string>
+/// KONTAKT
+    <string name="titlekontakt"><b></b></string>
+    <string name="textkontakt"></string>
+///
+
+///
+
+    <string name="styled_text">Plain, <b>bold</b>, <i>italic</i>, <b><i>bold-italic</i></b></string>
+    <string name="str_more"><![CDATA[<p><b>This is the header</b><u>( see more ..)</u>]]></string>
+    <string name="str_less"><![CDATA[<p><b>This is the header</b><u>(less ..)</u>]]></string>
+    <string name="str_details"><![CDATA[<p>A long string of text that do not want to show all the time.A long string of text that do not want to show all the time.A long string of text that do not want to show all the time.A long string of text that do not want to show all the time.A long string of text that do not want to show all the time.</p>]]></string>
+    <string name="wyslijemail">WYŚLIJ E-MAIL</string>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content">
+    <item
+        android:title="PRODUKTY">
+        <menu>
+            <group>>
+                <item
+                    android:id="@+id/nav_composite"
+                    android:title="MATERAC COMPOSITE" />
+                <item
+                    android:id="@+id/nav_natural"
+                    android:title="MATERAC NATURAL" />
+                <item
+                    android:id="@+id/nav_life"
+                    android:title="MATERAC LIFE" />
+                <item
+                    android:id="@+id/nav_baby"
+                    android:title="MATERAC BABY" />
+                <item
+                    android:id="@+id/nav_nawierzchniowy"
+                    android:title="MATERAC NAWIERZCHNIOWY" />
+                <item
+                    android:id="@+id/nav_bed"
+                    android:title="ŁÓŻKO PLANTPUR BED" />
+                <item
+                    android:id="@+id/nav_sklep"
+                    android:icon="@drawable/ic_shopcart"
+                    android:title="SKLEP Z MATERACAMI"
+                    />
+            </group>
+        </menu>
+    </item>
+
+
+
+    <item android:title="POMOC I KONTAKT">
+        <menu>
+            <item
+                android:id="@+id/nav_onas"
+                android:title="O NAS"/>
+            <item
+                android:id="@+id/nav_blog"
+                android:title="BLOG"/>
+            <item
+                android:id="@+id/nav_opinie"
+                android:title="OPINIE"/>
+            <item
+                android:id="@+id/nav_pytania"
+                android:title="PYTANIA"/>
+            <item
+                android:id="@+id/nav_kontakt"
+                android:icon="@drawable/ic_kontakt"
+                android:title="KONTAKT"/>
+        </menu>
+    </item>
+</menu>
